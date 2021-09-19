@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/figma-react-project/static/css/main.3be1bae8.chunk.css",
+    "main.js": "/figma-react-project/static/js/main.f6f41186.chunk.js",
+    "main.js.map": "/figma-react-project/static/js/main.f6f41186.chunk.js.map",
+    "runtime-main.js": "/figma-react-project/static/js/runtime-main.4f51fa3b.js",
+    "runtime-main.js.map": "/figma-react-project/static/js/runtime-main.4f51fa3b.js.map",
+    "static/css/2.4be38407.chunk.css": "/figma-react-project/static/css/2.4be38407.chunk.css",
+    "static/js/2.15d3a905.chunk.js": "/figma-react-project/static/js/2.15d3a905.chunk.js",
+    "static/js/2.15d3a905.chunk.js.map": "/figma-react-project/static/js/2.15d3a905.chunk.js.map",
+    "static/js/3.9aeceb2b.chunk.js": "/figma-react-project/static/js/3.9aeceb2b.chunk.js",
+    "static/js/3.9aeceb2b.chunk.js.map": "/figma-react-project/static/js/3.9aeceb2b.chunk.js.map",
+    "index.html": "/figma-react-project/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/figma-react-project/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.3be1bae8.chunk.css.map": "/figma-react-project/static/css/main.3be1bae8.chunk.css.map",
+    "static/js/2.15d3a905.chunk.js.LICENSE.txt": "/figma-react-project/static/js/2.15d3a905.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/figma-react-project/static/media/page4bg.39b84cd7.png",
+    "static/media/page1img.cd77e399.png": "/figma-react-project/static/media/page1img.cd77e399.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f51fa3b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.15d3a905.chunk.js",
+    "static/css/main.3be1bae8.chunk.css",
+    "static/js/main.f6f41186.chunk.js"
+  ]
+}
