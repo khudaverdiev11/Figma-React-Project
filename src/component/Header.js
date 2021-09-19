@@ -12,7 +12,7 @@ export class Header extends Component {
                         </div>
                         <ul>
                             <li><p className="nav-item">ABOUT</p> </li>
-                            <li><p className="nav-item">GALLARY</p> </li>
+                            <li><p className="nav-item">GALLERY</p> </li>
                             <li><p className="nav-item">PRICING</p> </li>
                             <li><p className="nav-item">FAQ</p> </li>
                             <li><p className="nav-item">BENEFITS</p> </li>

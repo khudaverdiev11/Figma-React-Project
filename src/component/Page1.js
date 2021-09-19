@@ -19,8 +19,8 @@ export class Page1 extends Component {
                                         </div>
                                     </div>
                                     <div className="videotext col-sm-9">
-                                        <p id="pvideo">The harder you work for something. the greater <br /> you'll  fell when you acthieve it.</p>
-                                        <p id="p2video">Watch prwiew</p>
+                                        <p id="pvideo">The harder you work for something. the greater <br /> you'll  fell when you achieve it.</p>
+                                        <p id="p2video">Watch prewiew</p>
                                     </div>
                                 </div>
                             </div>
